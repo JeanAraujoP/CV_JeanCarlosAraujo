@@ -11,15 +11,19 @@ Profesion: Analista y Desarrollador de Software
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
+<br><br>
+<br><br>
+
+- :school: programador `Junior`
+- :tecnologo: Me encanta usar software como solución para cualquier problema.
+- :estudiante: Actualmente estudio analisis y desarrollo de software.
+- :nerd_face: Siempre estoy aprendiendo cosas nuevas.
+- :pensando: Estoy disponible para nuevas oportunidades laborales.
+<br>
+ 
 
 
-<br></br>
-
-
-<br></br> 
-
-
-<br></br>
+</br>
 
 
 ## 📞Contacto
