@@ -15,7 +15,6 @@ Profesion: Analista y Desarrollador de Software
 - :estudiante: Actualmente estudio analisis y desarrollo de software.
 - :nerd_face: Siempre estoy aprendiendo cosas nuevas.
 - :pensando: Estoy disponible para nuevas oportunidades laborales.
-<br>
 
 
 ## 📞Contacto
