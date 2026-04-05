@@ -6,7 +6,6 @@ Mi hoja de vida
 Profesion: Analista y Desarrollador de Software
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
 </a>
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
