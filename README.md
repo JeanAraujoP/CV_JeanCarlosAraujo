@@ -26,6 +26,8 @@
 - :nerd_face: Siempre estoy aprendiendo cosas nuevas.
 - :pensando: Estoy disponible para nuevas oportunidades laborales.
 
+<br>
+<p aling="cemter">
 ## 📞Contacto
 • Email: jeanalepacheco10@gmail.com
 
