@@ -3,6 +3,21 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 #   Hola, soy Jean Carlos Araujo Alejandro Araujo Pacheco!
+
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
+<details align="center">
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Aacerca de mi
 
