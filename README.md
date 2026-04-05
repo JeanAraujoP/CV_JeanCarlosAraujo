@@ -27,11 +27,15 @@
 - :pensando: Estoy disponible para nuevas oportunidades laborales.
 
 <br>
+
 <p aling="cemter">
+  
 ## 📞Contacto
 • Email: jeanalepacheco10@gmail.com
 
 • LinkedIn: linkedin.com/in/tuusuario
+
+</p>
 
 ## 🏢Experiencia Laboral
 • Administrador de ventas - en excel hacer una pantilla para eventos, los dias ocupados, y los empleados repartidos en cada evento.
