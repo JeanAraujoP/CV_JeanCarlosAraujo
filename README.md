@@ -30,7 +30,7 @@
 
 <p aling="cemter">
   
-##          📞Contacto
+##  ---📞Contacto
 • Email: jeanalepacheco10@gmail.com
 
 • LinkedIn: linkedin.com/in/tuusuario
