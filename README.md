@@ -1,5 +1,4 @@
 # CV_JeanCarlosAraujo
-Mi hoja de vida
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
@@ -73,5 +72,10 @@ Mi hoja de vida
 • Python
 
 • JavaScript
+
+![](https://github-readme-stats.vercel.app/api?username=mubin-khalid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mubin-khalid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubin-khalid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 • SQL
