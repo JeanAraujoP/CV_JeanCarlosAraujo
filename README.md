@@ -5,17 +5,6 @@ Mi hoja de vida
 
 Profesion: Analista y Desarrollador de Software
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://dummyimage.com/10/0a192f/white?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://dummyimage.com/10/f8f8f8/white?text=+) #f8f8f8 |
-| Example Color | ![#0049d1ff](https://dummyimage.com/10/0049d1ff/white?text=+) #0049d1ff |
-| Example Color | ![#0049d1ff](https://dummyimage.com/10/0049d1ff/white?text=+) #0049d1ff |
-
-## Resumen
-
 ## 📞Contacto
 • Email: jeanalepacheco10@gmail.com
 
