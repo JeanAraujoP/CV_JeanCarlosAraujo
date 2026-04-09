@@ -115,9 +115,8 @@ const jean = {
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [**proyecto-01**](https://github.com/JeanAraujoP/repo1) | Qué problema resuelve y qué aprendiste al construirlo. | JS · Node · Express |
-| [**proyecto-02**](https://github.com/JeanAraujoP/repo2) | El reto técnico que atacaste — en una sola oración. | React · Next.js |
-| [**proyecto-03**](https://github.com/JeanAraujoP/repo3) | Algo construido en el SENA o por tu cuenta. | NestJS · MySQL |
+| [**proyecto-01**](https://github.com/JeanAraujoP/repo1) | Qué problema resuelve y qué aprendiste al construir. | JS · css · NodeJS |
+| [**proyecto-02**](https://github.com/JeanAraujoP/repo3) | Algo construido en el SENA o por tu cuenta. | NestJS · MySQL |
 
 ---
 
@@ -148,5 +147,5 @@ const jean = {
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,1b2d45,3a6bc7&height=100&section=footer"/>
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
