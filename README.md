@@ -4,6 +4,11 @@
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
+<p align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
 
 <!-- HEADER ANIMADO — azul marino -->
 <p align="center">
