@@ -136,15 +136,6 @@ const jean = {
 
 ---
 
-<!-- Snake animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanAraujoP/JeanAraujoP/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanAraujoP/JeanAraujoP/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/JeanAraujoP/JeanAraujoP/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
